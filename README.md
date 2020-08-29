@@ -1,4 +1,5 @@
 # Clock-Project-Java-211
+#### Last Update: May 2020
 
 This project opens a input file with a list of times. It then stores these times in a binary tree which are sorted using a Comparable interface.
 The file is chosen using GUI where I incoorporate ActionListening interface. Also, the project supports ClockExceptions to handle wrong clock formats.
